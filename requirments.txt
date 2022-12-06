@@ -3,3 +3,7 @@ emoji
 typeoption
 colour
 vibrant
+
+darkmode
+video option
+vfx
