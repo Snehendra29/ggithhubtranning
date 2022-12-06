@@ -7,3 +7,7 @@ vibrant
 darkmode
 video option
 vfx
+
+payment Option
+send Money
+receive Money
